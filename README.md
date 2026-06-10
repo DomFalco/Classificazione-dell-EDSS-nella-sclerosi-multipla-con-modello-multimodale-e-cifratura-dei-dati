@@ -51,7 +51,7 @@ Multiple Sclerosis is a chronic neurodegenerative disease that requires continuo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/edss-ms-classification.git
+git clone https://github.com/DomFalco/Classificazione-dell-EDSS-nella-sclerosi-multipla-con-modello-multimodale-e-cifratura-dei-dati.git
 cd edss-ms-classification
 ```
 
